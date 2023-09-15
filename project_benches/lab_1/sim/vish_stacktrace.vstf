@@ -1,0 +1,9 @@
+# Current time Sun Feb 27 03:42:47 2022
+# Program = vish
+# Id = "2020.4_1"
+# Version = "2020.11"
+# Date = "Nov  6 2020"
+# Platform = "linux"
+# 0    0x08328e7b: '<unknown (@0x8328e7b)>'
+# 1    0x08638ca0: 'Tcl_Release + 0x90' in '/afs/eos.ncsu.edu/dist/questasim2020_4/linux/vish'
+# 2    0xe588fffb: '<unknown (@0xe588fffb)>'
